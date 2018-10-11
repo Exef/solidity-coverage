@@ -1,6 +1,6 @@
 {
-  "name": "solidity-coverage",
-  "version": "0.5.11",
+  "name": "solidity-coverage-fork",
+  "version": "0.5.13",
   "description": "",
   "bin": {
     "solidity-coverage": "./bin/exec.js"
